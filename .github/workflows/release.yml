@@ -10,6 +10,7 @@ jobs:
   release_please:
     runs-on: ubuntu-latest
     permissions:
+      id-token: write
       contents: write
       pull-requests: write
     steps:
