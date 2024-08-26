@@ -22,7 +22,7 @@ jobs:
 
       - name: Prettier
         run: |
-          npx prettier --check .=
+          npx prettier --check .
 
   build:
     name: Build and test
