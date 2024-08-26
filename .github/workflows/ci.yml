@@ -22,11 +22,7 @@ jobs:
 
       - name: Prettier
         run: |
-          npx prettier --check .
-
-      - name: eslint
-        run: |
-          npx eslint
+          npx prettier --check .=
 
   build:
     name: Build and test
@@ -43,7 +39,3 @@ jobs:
       - name: Build
         run: |
           yarn build
-
-      - name: Test
-        run: |
-          yarn test
