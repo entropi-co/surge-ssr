@@ -118,7 +118,7 @@ jobs:
 
           echo "Publishing @entropi/surge-ssr to JSR"
 
-          npx jsr publish --allow-dirty
+          npx jsr publish --allow-dirty --allow-slow-types
 
           echo "Publishing @entropi-co/surge-ssr to npm"
 
