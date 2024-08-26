@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1](https://github.com/entropi-co/surge-ssr/compare/v0.2.0...v0.2.1) (2024-08-26)
+
+
+### Bug Fixes
+
+* ci.yml id-token permission to 'write' ([eaea0a7](https://github.com/entropi-co/surge-ssr/commit/eaea0a78ee088796377e19357e596ce5c390b0d5))
+* fuck the explicit types ([0cedd23](https://github.com/entropi-co/surge-ssr/commit/0cedd23632170425a96ee58a926fea1198962b05))
+* npm publish scope to public ([2c79445](https://github.com/entropi-co/surge-ssr/commit/2c79445bd9898a5943ec68d351a6fbaada555db6))
+
 ## [0.2.0](https://github.com/entropi-co/surge-ssr/compare/v0.1.0...v0.2.0) (2024-08-26)
 
 
