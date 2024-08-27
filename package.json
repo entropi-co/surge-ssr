@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/entropi-co/surge-ssr#readme",
   "devDependencies": {
+    "@entropi-co/surge-js": "^0.2.0",
     "@eslint/js": "^9.3.0",
-    "@entropi-co/surge-js": "^0.1.1",
     "@types/cookie": "^0.6.0",
     "@vitest/coverage-v8": "^1.6.0",
     "eslint": "^8.57.0",
@@ -30,7 +30,7 @@
     "vitest": "^1.6.0"
   },
   "peerDependencies": {
-    "@entropi-co/surge-js": "^2.43.4"
+    "@entropi-co/surge-js": "^0.2.0"
   },
   "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu": "^4.9.5"
