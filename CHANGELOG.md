@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/entropi-co/surge-ssr/compare/v0.2.1...v0.3.0) (2024-08-27)
+
+
+### Features
+
+* update surge-js version to 0.2.0 ([c1ca24f](https://github.com/entropi-co/surge-ssr/commit/c1ca24f101a071839dca50267a2a6cce1741c75d))
+
 ## [0.2.1](https://github.com/entropi-co/surge-ssr/compare/v0.2.0...v0.2.1) (2024-08-26)
 
 
