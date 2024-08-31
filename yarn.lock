@@ -41,10 +41,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@entropi-co/surge-js@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@entropi-co/surge-js/-/surge-js-0.2.0.tgz#cec95552abe9c017a79b0e152ecc791f08ed3944"
-  integrity sha512-ukYI2Nddv7rn6mZOndDRU0i4RThxf8oDbXnnMhVVaMHYidB0k/2pVvihgr4MOD6Ye1SK3tJq+lnykM8MWWUakA==
+"@entropi-co/surge-js@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@entropi-co/surge-js/-/surge-js-0.3.0.tgz#b131bdb4c3c7628722980a478dfe0a984cd24d1a"
+  integrity sha512-BrEWYhf3F9UpWJrxW2u3a2knPEC/uLjZ6YKVS8Gps4Zt5LHXZBY1qY4bsAfMP25DO3RpI8+hxqNr3BoP5YEf2Q==
   dependencies:
     "@supabase/node-fetch" "^2.6.14"
 
