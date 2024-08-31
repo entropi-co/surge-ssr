@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/entropi-co/surge-ssr#readme",
   "devDependencies": {
-    "@entropi-co/surge-js": "^0.2.0",
+    "@entropi-co/surge-js": "^0.3.0",
     "@eslint/js": "^9.3.0",
     "@types/cookie": "^0.6.0",
     "@vitest/coverage-v8": "^1.6.0",
